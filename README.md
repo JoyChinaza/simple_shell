@@ -1,2 +1,1 @@
-# simple_shell
-Working on Simple Shell Projects
+About to conquer simple shell
